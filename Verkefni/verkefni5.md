@@ -22,11 +22,11 @@ items: [
   total: 0
 }
 ```
-1. [ ] Búðu til fallið _listTotal_ sem reikna út heildarverð (total) allra vara úr _shoppingList_. **20%**
-1. [ ] Vefappið sýnir (HTML og CSS) allar vörur (heiti og verð) ásamt heildarverði allra vara úr shoppingList. **30%**
-1. [ ] Notandi á að geta bætt við nýjum vörum á vörulista, heildarverð uppfærist. **15%**
+1. [x] Búðu til fallið _listTotal_ sem reikna út heildarverð (total) allra vara úr _shoppingList_. **20%**
+1. [x] Vefappið sýnir (HTML og CSS) allar vörur (heiti og verð) ásamt heildarverði allra vara úr shoppingList. **30%**
+1. [x] Notandi á að geta bætt við nýjum vörum á vörulista, heildarverð uppfærist. **15%**
 1. [ ] Notandi á að geta fjarlægt vörur af vörulista, heildarverð uppfærist. **15%**
-1. [ ] Notaðu [localStorage](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/Web-Storage) til að varðveita vörulista í vaframinni. **20%**
+1. [x] Notaðu [localStorage](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/Web-Storage) til að varðveita vörulista í vaframinni. **20%**
 
 ---
 
