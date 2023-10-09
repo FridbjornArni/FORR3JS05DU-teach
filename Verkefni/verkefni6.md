@@ -14,14 +14,14 @@ Búðu til [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (Single-
 
 #### 1. Gögn og fetch (10%)
 
-1. [ ] Búðu til [JSON](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/JSON-og-Fetch) skrá `vidburdir.json`. Skráin geymir 10 viðburði (skáldaðu / ChatGPT) sem innihalda eftirfarandi upplýsingar: 
+1. [x] Búðu til [JSON](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/JSON-og-Fetch) skrá `vidburdir.json`. Skráin geymir 10 viðburði (skáldaðu / ChatGPT) sem innihalda eftirfarandi upplýsingar: 
     - nafn á viðburð
     - verð á viðburð
     - dagsetning viðburðar
     - staðsetning viðburðar
     - vefslóð á ljósmynd fyrir viðburð
-1. [ ] Gögnin (JSON) eru sótt með [fetch eða await/async](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/JSON-og-Fetch).
-1. [ ] Gögn eru yfirfærð í viðeigandi gagnaskipan (fylki með objects) í JavaScript.
+1. [x] Gögnin (JSON) eru sótt með [fetch eða await/async](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/JSON-og-Fetch).
+1. [x] Gögn eru yfirfærð í viðeigandi gagnaskipan (fylki með objects) í JavaScript.
 
 > **Note**
 > hlutir í fylkinu mega ekki vera forraðaðir eftir dagsetningu eða verði. 
@@ -29,8 +29,8 @@ Búðu til [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (Single-
 ---
 
 #### 2. Viðmót og uppsetning (20%)
-1. [ ] Notaðu Dom manipulation aðferðir eða InnerHTML og template literal til að flétta saman html/css og gögn. 
-1. [ ] Birtu alla viðburði; [myndir](https://softauthor.com/javascript-working-with-images/), heiti, verð, staðsetningu og dagsetningu í HTML með JavaScript. Notaðu `div` html stök. <br> Listar (`<ul>` og `<li>`) eru ekki leyfðir.
+1. [x] Notaðu Dom manipulation aðferðir eða InnerHTML og template literal til að flétta saman html/css og gögn. 
+1. [x] Birtu alla viðburði; [myndir](https://softauthor.com/javascript-working-with-images/), heiti, verð, staðsetningu og dagsetningu í HTML með JavaScript. Notaðu `div` html stök. <br> Listar (`<ul>` og `<li>`) eru ekki leyfðir.
 1. [ ] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
 1. [ ] Notaðu CSS fyrir responsive uppsetningu (layout) og framsetningu t.d. Flexbox, CSS Grids eða CSS safn að eigin vali. 
 1. [ ] Hafðu íslenskt sniðmát á dagsetningum.
