@@ -31,9 +31,9 @@ Búðu til [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (Single-
 #### 2. Viðmót og uppsetning (20%)
 1. [x] Notaðu Dom manipulation aðferðir eða InnerHTML og template literal til að flétta saman html/css og gögn. 
 1. [x] Birtu alla viðburði; [myndir](https://softauthor.com/javascript-working-with-images/), heiti, verð, staðsetningu og dagsetningu í HTML með JavaScript. Notaðu `div` html stök. <br> Listar (`<ul>` og `<li>`) eru ekki leyfðir.
-1. [ ] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
+1. [x] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
 1. [ ] Notaðu CSS fyrir responsive uppsetningu (layout) og framsetningu t.d. Flexbox, CSS Grids eða CSS safn að eigin vali. 
-1. [ ] Hafðu íslenskt sniðmát á dagsetningum.
+1. [x] Hafðu íslenskt sniðmát á dagsetningum.
 
 ---
 
@@ -41,7 +41,7 @@ Búðu til [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (Single-
 
 Búðu til síu (e. filter) sem með notkun [HTML Range slider](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) sem síar út viðburði eftir verði. 
 
-1. [ ] Slider sýnir verð með þrepum (steps) við notkun á slider sjá td. [onchange vs oninput](https://www.impressivewebs.com/onchange-vs-oninput-for-range-sliders/)
+1. [x] Slider sýnir verð með þrepum (steps) við notkun á slider sjá td. [onchange vs oninput](https://www.impressivewebs.com/onchange-vs-oninput-for-range-sliders/)
 1. [ ] Slider er með range upphafsstöðurnar lægsta og hæsta verð útfrá gögnum sem eru sýnileg.
 1. [ ] Búðu til síu (e. filter) sem tengir viðburð (objecta) við slider gildi, sjá [Síun](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/S%C3%ADun) 
 1. [ ] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
