@@ -32,7 +32,7 @@ Búðu til [SPA](https://developer.mozilla.org/en-US/docs/Glossary/SPA) (Single-
 1. [x] Notaðu Dom manipulation aðferðir eða InnerHTML og template literal til að flétta saman html/css og gögn. 
 1. [x] Birtu alla viðburði; [myndir](https://softauthor.com/javascript-working-with-images/), heiti, verð, staðsetningu og dagsetningu í HTML með JavaScript. Notaðu `div` html stök. <br> Listar (`<ul>` og `<li>`) eru ekki leyfðir.
 1. [x] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
-1. [ ] Notaðu CSS fyrir responsive uppsetningu (layout) og framsetningu t.d. Flexbox, CSS Grids eða CSS safn að eigin vali. 
+1. [x] Notaðu CSS fyrir responsive uppsetningu (layout) og framsetningu t.d. Flexbox, CSS Grids eða CSS safn að eigin vali. 
 1. [x] Hafðu íslenskt sniðmát á dagsetningum.
 
 ---
@@ -43,7 +43,7 @@ Búðu til síu (e. filter) sem með notkun [HTML Range slider](https://develope
 
 1. [x] Slider sýnir verð með þrepum (steps) við notkun á slider sjá td. [onchange vs oninput](https://www.impressivewebs.com/onchange-vs-oninput-for-range-sliders/)
 1. [x] Slider er með range upphafsstöðurnar lægsta og hæsta verð útfrá gögnum sem eru sýnileg.
-1. [ ] Búðu til síu (e. filter) sem tengir viðburð (objecta) við slider gildi, sjá [Síun](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/S%C3%ADun) 
+1. [x] Búðu til síu (e. filter) sem tengir viðburð (objecta) við slider gildi, sjá [Síun](https://github.com/GunnarThorunnarson/FORR3JS05DU/wiki/S%C3%ADun) 
 1. [x] Viðburðir eru raðaðir eftir verði (lágt til hátt) eða eftir dagsetningu (nýjast fyrst).
 1. [x] Notandi á að geta stýrt slider sem síar út viðburð eftir verði.
 
@@ -57,8 +57,8 @@ Búðu til síu (e. filter) sem með notkun [HTML Range slider](https://develope
 #### 4. Leit (20%) 
 Notandi á að geta fundið viðburð með notkun leitarreits, sjá [sýnidæmi](http://javascriptbook.com/code/c12/filter-search.html). Aðrir viðburðir eiga að hverfa af skjá.
 
-1. [ ] Leitað er eftir heiti viðburðar (ekki case sensitive).
-1. [ ] Leit hefst um leið og notandi slær inn bókstaf.
+1. [x] Leitað er eftir heiti viðburðar (ekki case sensitive).
+1. [x] Leit hefst um leið og notandi slær inn bókstaf.
 
 ---
 
